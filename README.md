@@ -1,5 +1,5 @@
 # CysBiometricProject
-Multimodal biometric detection program
+Multimodal biometric detection system
 
 Links Used / Potentially helpful:
 
